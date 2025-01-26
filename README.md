@@ -1,2 +1,2 @@
-# [WIP] TVC PID Simulator
-thrust vectoring PID simulator for rockets
+# [WIP] TVC PID Controller
+thrust vectoring PID controller for rockets
